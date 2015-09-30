@@ -6,3 +6,4 @@ var PeopleCollection = Backbone.Collection.extend({
 });
 
 export default PeopleCollection;
+// export default PeopleCollection;
